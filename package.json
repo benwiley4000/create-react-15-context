@@ -4,7 +4,7 @@
   "description": "Polyfill for the proposed React context API",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "repository": "https://github.com/thejameskyle/create-react-context",
+  "repository": "https://github.com/benwiley4000/create-react-15-context",
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "MIT",
   "keywords": ["react", "context", "contextTypes", "polyfill", "ponyfill"],
