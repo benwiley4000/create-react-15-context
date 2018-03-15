@@ -4,6 +4,8 @@
 
 ## _This is a fork of [jamiebuilds/create-react-context](https://github.com/jamiebuilds/create-react-context)._
 
+*It can be installed by: `npm install --save create-react-15-context`*
+
 _It adds support for older versions of React (15+) by using a [polyfill](https://github.com/benwiley4000/react-dot-fragment) for React 16.2's new [`Fragment`](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) component._
 
 ### _Upstream readme follows:_
