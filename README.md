@@ -1,6 +1,12 @@
-# create-react-context
+# create-react-15-context
 
 > Polyfill for the [proposed React context API](https://github.com/reactjs/rfcs/pull/2)
+
+## _This is a fork of [jamiebuilds/create-react-context](https://github.com/jamiebuilds/create-react-context)._
+
+_It adds support for older versions of React (15+) by using a [polyfill](https://github.com/benwiley4000/react-dot-fragment) for React 16.2's new [`Fragment`](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) component._
+
+### _Upstream readme follows:_
 
 ## Install
 
