@@ -14,7 +14,7 @@
     "flow": "flow",
     "format": "prettier --write '**/*.{js,md,json,js.flow,d.ts}'",
     "build": "babel src -d lib --copy-files --ignore __tests__",
-    "prepublish": "yarn build",
+    "prepublish": "npm run build",
     "commit": "lint-staged"
   },
   "dependencies": {
